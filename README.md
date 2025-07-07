@@ -60,7 +60,7 @@ python src/predict.py
 
 ## 📄 Disclaimer
 
-This project was completed in **Semester 5 (2024)** as part of the **Artificial Intelligence** coursework at **SRM Institute of Science and Technology**.  
+This project was completed in **Semester 6 (2024)** as part of the **Artificial Intelligence** coursework at **SRM Institute of Science and Technology**.  
 It is intended **strictly for academic and educational purposes only**. The repository currently contains documentation only. The AI model and data implementation are in progress.
 
 © 2024 **Venkat Aditya Vellanki**. All rights reserved.
