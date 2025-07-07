@@ -44,7 +44,7 @@ This helps identify students who may require early support or intervention to im
 > After adding code to `/src`
 
 ```bash
-# (Optional) Create a virtual environment
+# Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
